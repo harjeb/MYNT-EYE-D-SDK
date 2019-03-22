@@ -39,7 +39,7 @@ release = '1.7.3'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-
+ breathe,
 ]
 
 # Add any paths that contain templates here, relative to this directory.
